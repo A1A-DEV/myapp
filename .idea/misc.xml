@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/lms/pom.xml" />
       </set>
     </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
   </component>
   <component name="NullableNotNullManager">
     <option name="myDefaultNullable" value="org.springframework.lang.Nullable" />
